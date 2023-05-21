@@ -1,2 +1,2 @@
 # Inventario
-Inventario con C# y SQL Server
+Inventario con C# y MySQL
